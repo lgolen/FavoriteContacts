@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Favorite Contacts</string>
+    <string name="contact_1">Lonnie Golen</string>
+    <string name="contact_2">Lonnie Golen</string>
+    <string name="contact_3">Lonnie Golen</string>
+    <string name="phone_1">5555555555</string>
+    <string name="phone_2">5555555555</string>
+    <string name="phone_3">5555555555</string>
+    <string-array name="text_choices">
+        <item>Hi</item>
+        <item>On my way</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Okay</item>
+    </string-array>
+</resources>
